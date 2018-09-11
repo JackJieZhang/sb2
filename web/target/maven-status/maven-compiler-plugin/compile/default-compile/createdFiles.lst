@@ -1,0 +1,8 @@
+com\bogon\sb2\demo\config\MybatisPlusConfig.class
+com\bogon\sb2\demo\service\ISb2Service.class
+com\bogon\sb2\demo\entity\Sb2.class
+com\bogon\sb2\demo\controller\ErrorController.class
+com\bogon\sb2\demo\dao\Sb2Mapper.class
+com\bogon\sb2\demo\controller\Sb2Controller.class
+com\bogon\sb2\demo\service\impl\Sb2ServiceImpl.class
+com\bogon\sb2\Sb2Application.class

@@ -1,0 +1,9 @@
+2018-09-04 15:49:59.600  INFO 172764 --- [main] com.bogon.sb2.Sb2ApplicationTests        : Starting Sb2ApplicationTests on O71WCFJUJ7FEOFP with PID 172764 (started by Administrator in D:\work\sb2.0\sb2\web)
+2018-09-04 15:49:59.601 DEBUG 172764 --- [main] com.bogon.sb2.Sb2ApplicationTests        : Running with Spring Boot v2.1.0.M2, Spring v5.1.0.RC2
+2018-09-04 15:49:59.603  INFO 172764 --- [main] com.bogon.sb2.Sb2ApplicationTests        : No active profile set, falling back to default profiles: default
+2018-09-04 15:50:01.315  INFO 172764 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2018-09-04 15:50:02.393  INFO 172764 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-09-04 15:50:03.192  INFO 172764 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'applicationTaskExecutor'
+2018-09-04 15:50:04.106  INFO 172764 --- [main] com.bogon.sb2.Sb2ApplicationTests        : Started Sb2ApplicationTests in 4.989 seconds (JVM running for 6.047)
+2018-09-04 15:50:04.395  INFO 172764 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2018-09-04 15:50:04.407  INFO 172764 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
